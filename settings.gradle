@@ -1,0 +1,3 @@
+rootProject.name = "NiceImageView"
+include ':app'
+include ':niv'
