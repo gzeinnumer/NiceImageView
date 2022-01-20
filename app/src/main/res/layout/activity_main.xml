@@ -94,4 +94,5 @@
             android:src="@drawable/ic_no_image"
             android:visibility="visible" />
     </androidx.cardview.widget.CardView>
+
 </LinearLayout>
